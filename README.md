@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dcrayton15
-- 👀 I’m interested in Data Analysis with Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in becoming a Software Engineer
+- 🌱 I’m currently learning HTML, CSS, Javascript, and React
 - 💞️ I’m looking to collaborate on projects and cahllenges
 - 📫 How to reach me at my email craytondante@yahoo.com
 
